@@ -1,0 +1,9 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F877.INC 33 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Message[302] C:\USERS\PONCE\DOWNLOADS\PRACTICA 7 MICROS\PRACTICA 7 EJERCICIO 1.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\PONCE\DOWNLOADS\PRACTICA 7 MICROS\PRACTICA 7 EJERCICIO 1.ASM 19 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\PONCE\DOWNLOADS\PRACTICA 7 MICROS\PRACTICA 7 EJERCICIO 1.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\PONCE\DOWNLOADS\PRACTICA 7 MICROS\PRACTICA 7 EJERCICIO 1.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\PONCE\DOWNLOADS\PRACTICA 7 MICROS\PRACTICA 7 EJERCICIO 1.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\PONCE\DOWNLOADS\PRACTICA 7 MICROS\PRACTICA 7 EJERCICIO 1.ASM 144 : Using default destination of 1 (file).
+Message[305] C:\USERS\PONCE\DOWNLOADS\PRACTICA 7 MICROS\PRACTICA 7 EJERCICIO 1.ASM 146 : Using default destination of 1 (file).
+Message[305] C:\USERS\PONCE\DOWNLOADS\PRACTICA 7 MICROS\PRACTICA 7 EJERCICIO 1.ASM 148 : Using default destination of 1 (file).

@@ -1,0 +1,58 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Apr 15 21:00:54 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000005    program   0x00009a
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000005    0x000051      
+            78 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    ENVIA   0x000050    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                   INICIO   0x000005    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_A   0x00003c    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_E   0x00003e    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_I   0x000040    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_O   0x000042    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_U   0x000044    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_a   0x000046    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_e   0x000048    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_i   0x00004a    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_o   0x00004c    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_u   0x00004e    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                PRINCIPAL   0x000010    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                PRINCIPAL   0x000010    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_A   0x00003c    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_E   0x00003e    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_I   0x000040    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_O   0x000042    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_U   0x000044    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_a   0x000046    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_e   0x000048    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_i   0x00004a    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_o   0x00004c    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                  LETRA_u   0x00004e    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+                    ENVIA   0x000050    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 2.asm
+
+

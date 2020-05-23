@@ -1,0 +1,64 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Apr 15 20:20:00 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000005    program   0x0000da
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000005    0x000071      
+            110 out of 8454 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 APAGADOS   0x000030    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                    BLINK   0x000060    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+              CAMBIA_DATO   0x000016    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                 CONTINUA   0x000018    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                  DERECHA   0x000035    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+               ENCENDIDOS   0x000032    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                   INICIO   0x000005    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                IZQUIERDA   0x00003f    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                     LOOP   0x000014    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                   REBOTA   0x000049    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                  RETARDO   0x000065    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                 SENT_DER   0x000058    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                 SENT_IZQ   0x000050    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                      dos   0x000069    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                     tres   0x000067    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                      uno   0x00006b    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                     LOOP   0x000014    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+              CAMBIA_DATO   0x000016    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                 CONTINUA   0x000018    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                 APAGADOS   0x000030    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+               ENCENDIDOS   0x000032    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                  DERECHA   0x000035    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                IZQUIERDA   0x00003f    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                   REBOTA   0x000049    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                 SENT_IZQ   0x000050    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                 SENT_DER   0x000058    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                    BLINK   0x000060    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                  RETARDO   0x000065    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                     tres   0x000067    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                      dos   0x000069    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+                      uno   0x00006b    program     static C:\Users\Ponce\Downloads\Practica 7 micros\practica 7 ejercicio 1.asm
+
+
